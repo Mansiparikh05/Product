@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": "101",
+      "pname": "Laptop",
+      "pprice": 55000,
+      "pcompany": "Lenovo"
+    },
+    {
+      "pname": "Wirelesskeyboard",
+      "pprice": "10000",
+      "pcompany": "intel",
+      "id": "102"
+    },
+    {
+      "id": "103",
+      "pname": "mouse",
+      "pprice": 4000,
+      "pcompany": "HP"
+    },
+    {
+      "id": "104",
+      "pname": "USB",
+      "pprice": 1500,
+      "pcompany": "Lenovo"
+    },
+    {
+      "id": "106",
+      "pname": "Cable",
+      "pprice": 500,
+      "pcompany": "Dell"
+    },
+    {
+      "id": "a259",
+      "pname": "mobile",
+      "pprice": "120000",
+      "pcompany": "iphone"
+    }
+  ],
+  "users": [
+    {
+      "uid": "simi",
+      "upass": "simi",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "uid": "king@gmail.com",
+      "upass": "king@123"
+    }
+  ]
+}
